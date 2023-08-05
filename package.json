@@ -1,0 +1,14 @@
+{
+  "name": "steeleyeque2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "final.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
